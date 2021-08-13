@@ -1,0 +1,1 @@
+Implementation of the given title in 1st way, 200 frames have been extracted where 1st,50th,100th,150th and 200th frames are stored as key frames whereas other frames are stored as a difference of their immediate before key frame.
